@@ -1,0 +1,4 @@
+interface Infocomputer
+{
+    fun Info()
+}
